@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://bistutzyy.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
+title: 桃之夭夭
+subtitle: "只是当时已惘然"
 description: "第一个博客"
 keywords: 大学生
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2024
 # 源码仓库，请替换成自己的
-repository: TZYY01748/TZYY01748.github.io
+repository: bistutzyy/bistutzyy.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
